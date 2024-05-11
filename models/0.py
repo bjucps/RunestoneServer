@@ -30,8 +30,8 @@ settings.login_config = ""
 settings.course_id = "devcourse"
 settings.plugins = []
 settings.server_type = "http://"
-settings.academy_mode = True
-settings.lti_only_mode = False
+settings.academy_mode = False
+settings.lti_only_mode = True
 settings.coursera_mode = False
 
 # Do not control this with hostnames
